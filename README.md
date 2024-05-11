@@ -1,4 +1,4 @@
-# InsightCare-Optimizing-Emergency-Healthcare-Services-at-DeepCare-Hospital-Using-Tableau
+# InsightCare: Optimizing Emergency Healthcare Services at DeepCare Hospital Using Tableau
 In the dynamic healthcare landscape, DeepCare Hospital, guided by its newly appointed Medical Director is on a transformative journey. Acknowledging the vital role of data in informed decision-making, the hospital wants to utilize data analysis expertise to tackle critical challenges within the Emergency Room (ER). Driven by the need for comprehensive insights, particularly in ER operations, the Medical Director wants to understand current dynamics and formulate strategic improvements for enhanced service delivery.
 
 My task is to delve into data analysis, identifying key performance indicators and crucial information. I am to leverage this data for crafting solutions that optimize emergency care.
